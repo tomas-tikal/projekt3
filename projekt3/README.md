@@ -51,7 +51,7 @@ Zkontroluje existenci obce.
 Stáhne volební výsledky pro zadanou obec.
 Zpracuje výsledky a uloží je do CSV souboru.
 Příklad výstupu:
-Tabulka byla úspěšně zapsána do souboru vysledky_benesov.csv
+Tabulka byla úspěšně zapsána do souboru vysledky_benesov.csv. Součástí jsou celkem 4 příklady výstupů v požadovaném tvaru CSV i v XLSX (import CSV) formátu.
 
 Po úspěšném spuštění skriptu bude na obrazovce vypsána tabulka s volebními výsledky a zároveň bude uložena do souboru specifikovaného uživatelem.
 
